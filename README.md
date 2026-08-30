@@ -22,6 +22,10 @@ My first computer arrived in 1984, when I was ten. By the end of the decade I wa
 
 Today that means red-team engagements and advisory work, for companies and for institutions. I've consulted for the European Commission's Joint Research Centre and the European Defence Agency, advised Italian government bodies, and served (pro bono) in the EU AI Office working groups that drafted the first Code of Practice for general-purpose AI. I also teach, and speak at the occasional event.
 
+## Work
+
+- [Noctive Security](https://www.noctivesecurity.com): AI security evaluations and red-teaming. We attack your models and agents, then tell you exactly how we did it.
+
 ## Writing
 
 - [Are We Safe Yet](https://www.arewesafeyet.com), where I write about AI security in English, with a [newsletter](https://arewesafeyet.substack.com) to match.
@@ -30,7 +34,9 @@ Today that means red-team engagements and advisory work, for companies and for i
 
 ## Code
 
-Most of my work can't land in a public repo. When something can, it shows up here: [gotchamark](https://github.com/sambucci/gotchamark) watermarks PDFs per recipient, so when a document leaks you can tell which copy walked away. Written in Rust.
+Most of my work can't land in a public repo. When something can, it shows up here.
+
+- [gotchamark](https://github.com/sambucci/gotchamark): watermarks PDFs per recipient, so when a document leaks you can tell which copy walked away. Written in Rust.
 
 ## Elsewhere
 
