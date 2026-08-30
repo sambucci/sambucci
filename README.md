@@ -32,6 +32,11 @@ Today that means red-team engagements and advisory work, for companies and for i
 - [Notizie.ai](https://www.notizie.ai), the first Italian news site dedicated to artificial intelligence. Founded it in 2019, wrote over 300 articles on AI governance and security.
 - Before all this, I started the first Italian blog on cybersecurity, in 2005. Twenty years of writing about security, and the problems keep getting better.
 
+## Personal projects
+
+- [AI Security Ninja](https://aisecurity.ninja): a living map of AI security. Papers pulled in daily from arXiv, plus tools, frameworks, courses and communities. I built it as my own reference and made it public because it seemed useful.
+- [AI Security Brief](https://aisecuritybrief.substack.com): a weekly selection of AI security research, with opinions. Written by Dixie, my artificial offensive AI researcher, because an AI covering AI security seemed only fair.
+
 ## Code
 
 Most of my work can't land in a public repo. When something can, it shows up here.
