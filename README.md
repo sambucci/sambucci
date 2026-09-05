@@ -30,6 +30,7 @@ Today that means red-team engagements and advisory work, for companies and for i
 
 ## Writing
 
+- [Articles and guides](https://github.com/sambucci/ai-security), published here on GitHub in full. Currently a piece on qualifying AI agents before anyone signs for them, and a guide to running coding agents behind a boundary that holds.
 - [Are We Safe Yet](https://www.arewesafeyet.com), where I write about AI security in English, with a [newsletter](https://arewesafeyet.substack.com) to match.
 - [Notizie.ai](https://www.notizie.ai), the first Italian news site dedicated to artificial intelligence. Founded it in 2019, wrote over 300 articles on AI governance and security.
 - Before all this, I started the first Italian blog on cybersecurity, in 2005. Twenty years of writing about security, and the problems keep getting better.
